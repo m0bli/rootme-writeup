@@ -6,7 +6,7 @@ este é um repositório rápido, explicando como entramos na máquina [rootme](h
 
 ### OUTPUT DO NMAP 
 ```
-nmap -v -sC -sV -oN nmap/nmap_tcp_simple 10.10.128.17
+nmap -sV -T5 -vvv -p- 10.10.128.17
 PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey: 
@@ -98,4 +98,4 @@ uid=0(root) gid=33(www-data) groups=33(www-data)
 
 ```
 
-e assim conseguimos root e a flag de flag no diretório /root/root.txt
+e assim conseguimos root e a flag root no diretório /root/root.txt

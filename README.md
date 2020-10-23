@@ -1,6 +1,6 @@
 # ROOTME WRITEUP - TRYHACKME
 
-este é um repositório rápido, explicando como entramos na máquina [rootme](https://tryhackme.com/room/rrootme) do tryhackme.
+este é um repositório rápido, explicando como conseguir ter acesso e rootar a máquina [rootme](https://tryhackme.com/room/rrootme) do tryhackme.
 
 
 

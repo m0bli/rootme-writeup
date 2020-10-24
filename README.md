@@ -52,7 +52,7 @@ Recebi um aviso dizendo que a shell foi upada. Entrei no diretório /uploads e l
 
 ### OBTENDO UMA SHELL MELHOR
 
-Utilizando o modulo do python 'pty', usei um comando para dar um upgrade na minha shell utilizando o comando: 
+Utilizando o modulo do python 'pty', usei alguns comandos para dar um upgrade na minha shell 
 
 ```
 python3 -c 'import pty;pty.spawn("/bin/bash")'
